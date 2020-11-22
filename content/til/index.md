@@ -7,4 +7,9 @@ Here's a collection of information which resonate deeply in me. This list will c
 
 **2020**  
 **November**  
-
+|No.|Title|Link|Category|
+|:---:|:---|:---|:---|
+|1.|Linux File System/Structure Explained| [YouTube.com](https://www.youtube.com/watch?v=HbgzrKJvDRw)|Linux|
+|2.|Don't Just Collect The Dots - Connect Them|[ChiefExecutive.net](https://chiefexecutive.net/dont-just-collect-the-dots-connect-them/)|Productivity|
+|3.|Understanding Linux File Permission|[Linux.com](https://www.linux.com/training-tutorials/understanding-linux-file-permissions/)|Linux|
+|4.|The quick and simple editor for cron schedule expressions|[Crontab.guru](https://crontab.guru/)|Linux|
